@@ -179,7 +179,6 @@ Follow the instructions displayed in the console output after running the script
 
 - **Dynamic Middleware and Routes**: Easily configure middleware and routes using the JSON file.
 - **Customizable**: Modify the configuration to suit your application's requirements.
-- **Scalable**: Supports complex server structures with multiple nodes and connections.
 
 ## Troubleshooting
 
@@ -187,14 +186,7 @@ Follow the instructions displayed in the console output after running the script
 - Verify that Node.js and npm/yarn are installed and up-to-date.
 - Check the console output for any error messages during script execution.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## Contact
 
-For questions or support, please contact [Kaif Manzar](mailto:kaifmanzar@example.com).
+For questions or support, please contact [Kaif Manzar](mailto:kaifmanzar321@gamil.com).
